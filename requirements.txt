@@ -11,4 +11,4 @@ numpy
 tqdm
 networkx
 scikit_learn
-torch==1.10.2+cu102 
+torch==1.7.1
