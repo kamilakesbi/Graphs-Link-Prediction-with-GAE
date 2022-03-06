@@ -1,0 +1,14 @@
+# Install required packages.
+torch-scatter -f https://data.pyg.org/whl/torch-1.10.0+cu113.html
+torch-sparse -f https://data.pyg.org/whl/torch-1.10.0+cu113.html
+torch-cluster -f https://data.pyg.org/whl/torch-1.10.0+cu113.html
+git+https://github.com/pyg-team/pytorch_geometric.git
+
+dgl 
+gensim
+node2vec
+numpy
+tqdm
+networkx
+scikit_learn
+torch==1.10.2+cu102 
