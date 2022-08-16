@@ -36,10 +36,12 @@ graphs.
 
 ## Architecture : 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-
+![Alt text](images/ModelPipeline.png "Final architecture pipeline")
 
 ## Results : 
+
+![Alt text](images/results.png "Final results")
+
 
 
 
