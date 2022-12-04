@@ -29,6 +29,9 @@ on the prediction task and observe the efficiency of fixed-size
 neighborhood sampling to adapt the GAE framework to large
 graphs.
 
+More details about our work can be found in the reports. 
+
+
 ## Setup : 
 
 
